@@ -1,0 +1,7 @@
+.main-continer {
+    display: flex;
+    justify-content: center;
+}   
+form {
+    width: 28%;
+}
